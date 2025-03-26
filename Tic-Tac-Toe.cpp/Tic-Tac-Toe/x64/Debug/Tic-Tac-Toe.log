@@ -1,0 +1,4 @@
+﻿  TTT.cpp
+C:\Users\dadoc\OneDrive\Documents\Program-Games\C++\Tic-Tac-Toe.cpp\Tic-Tac-Toe\TTT.cpp(18,7): warning C4101: 'playAgn': unreferenced local variable
+C:\Users\dadoc\OneDrive\Documents\Program-Games\C++\Tic-Tac-Toe.cpp\Tic-Tac-Toe\TTT.cpp(81,12): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+  Tic-Tac-Toe.vcxproj -> C:\Users\dadoc\OneDrive\Documents\Program-Games\C++\Tic-Tac-Toe.cpp\x64\Debug\Tic-Tac-Toe.exe
