@@ -1,0 +1,5 @@
+﻿  HM.cpp
+C:\Users\dadoc\OneDrive\Desktop\Program-Games\HangMan\HangMan\HM.cpp(237,15): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+C:\Users\dadoc\OneDrive\Desktop\Program-Games\HangMan\HangMan\HM.cpp(248,15): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+C:\Users\dadoc\OneDrive\Desktop\Program-Games\HangMan\HangMan\HM.cpp(259,15): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+  HangMan.vcxproj -> C:\Users\dadoc\OneDrive\Desktop\Program-Games\HangMan\x64\Debug\HangMan.exe
