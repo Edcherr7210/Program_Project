@@ -1,0 +1,4 @@
+﻿  BlackJack.cpp
+C:\Users\dadoc\source\repos\BlackJack\BlackJack\BlackJack.cpp(56,15): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+C:\Users\dadoc\source\repos\BlackJack\BlackJack\BlackJack.cpp(97,15): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+  BlackJack.vcxproj -> C:\Users\dadoc\source\repos\BlackJack\x64\Debug\BlackJack.exe
